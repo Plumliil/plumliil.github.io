@@ -1,4 +1,5 @@
 export default {
+  base:'/',
   title: 'Plumliil', // 博客的标题
   themeConfig: {
       logo: "/logo.png", // 页面上显示的logo
